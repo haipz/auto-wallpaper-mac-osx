@@ -33,4 +33,4 @@ sudo sh uninstall.sh
 
 I am the author **Haipz**, from **Hangzhou Dianzi University**.
 
-If you suffers any problem, please send an e-mail to **haipzm@gmail.com**, I will help you if my schedule allowed.
+If you suffer any problem, please send an e-mail to **haipzm@gmail.com**, I will help you if my schedule allowed.
