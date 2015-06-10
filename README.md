@@ -6,7 +6,7 @@
 
 You can download this project from github freely, and once you install this project, please don't change the dir of the fold.
 
-So I suggeste you copy this project to the dir like `/User/haipz/apps/`.
+So I suggest you copy this project to the dir like `/User/haipz/apps/`.
 
 ## Install & Uninstall
 
