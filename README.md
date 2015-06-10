@@ -10,7 +10,14 @@ So I suggeste you copy this project to the dir like `/User/haipz/apps/`.
 
 ## Install & Uninstall
 
-Make your shell windows to the flod of this project, and run the code below to install:
+Make your shell windows to the flod of this project, add some package of nodejs:
+
+```
+npm install -g request
+npm link request
+```
+
+Then run the code below to install:
 
 ```
 sudo sh install.sh
