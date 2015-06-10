@@ -10,7 +10,7 @@ So I suggest you copy this project to the dir like `/User/haipz/apps/`.
 
 ## Install & Uninstall
 
-Make your shell windows to the flod of this project, add some package of nodejs:
+Make your shell windows to the flod of this project, add a package of nodejs:
 
 ```
 npm install -g request
