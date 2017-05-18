@@ -2,7 +2,7 @@
 
 ## 
 
-##Download
+## Download
 
 You can download this project from github freely, and once you install this project, please don't change the directory.
 
